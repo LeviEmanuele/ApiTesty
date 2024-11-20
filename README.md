@@ -4,7 +4,8 @@
 --
 - [x] Task 2 Unknown reason
 --
-- [x] _Rest your code, ashen one_ <img src="https://i.imgur.com/xmG1hBo.gif" width="500" height="auto" /> 
+- [x] _Rest your code, ashen one_
+<img src="https://i.imgur.com/xmG1hBo.gif" width="500" height="auto" /> 
 
 
 
