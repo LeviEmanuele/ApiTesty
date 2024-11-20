@@ -4,8 +4,8 @@
 --
 - [x] Task 2 Unknown reason
 --
-- [x] ![the quiet flame of learning](https://imgur.com/xmG1hBo) 
+- [x] <img src="https://i.imgur.com/xmG1hBo.gif" width="500" height="auto" /> 
 --
-- [] Task 3 Human Instrumentality Project: _incomplete_
+- [ ] Task 3 Human Instrumentality Project: _incomplete_
 
 
