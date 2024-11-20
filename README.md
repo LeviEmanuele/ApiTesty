@@ -4,8 +4,7 @@
 --
 - [x] Task 2 Unknown reason
 --
-- [x] <img src="https://i.imgur.com/xmG1hBo.gif" width="500" height="50" /> 
---
-- [ ] Task 3 Human Instrumentality Project: _incomplete_
+- [x] _Rest your code, ashen one_ <img src="https://i.imgur.com/xmG1hBo.gif" width="500" height="auto" /> 
+
 
 
