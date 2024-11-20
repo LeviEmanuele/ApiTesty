@@ -6,7 +6,8 @@
 [x] Task 2 Unknown reason
 
 --
-[] [the quiet flame of learning](https://imgur.com/xmG1hBo) 
+
+[ ] ![the quiet flame of learning](https://imgur.com/xmG1hBo) 
 
 --
 
