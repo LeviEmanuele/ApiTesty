@@ -7,7 +7,7 @@
 
 --
 
-[ ] ![the quiet flame of learning](https://imgur.com/xmG1hBo) 
+[] ![the quiet flame of learning](https://i.imgur.com/xmG1hBo.gif) 
 
 --
 
